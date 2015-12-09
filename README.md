@@ -1,4 +1,4 @@
 # HelloR
 My first repo
-*nice
-*awesome
+* nice
+* awesome
